@@ -1,4 +1,1 @@
 finance-datareader
-streamlit
-FinanceDataReader
-pandas
